@@ -1,0 +1,29 @@
+======================================================
+  HOUSE PRICE PREDICTION PROJECT SUBMISSION
+======================================================
+
+Name: [Please enter your name]
+Matric Number: [Please enter your matric number]
+
+Machine Learning Algorithm Used: 
+[Specify: e.g., Linear Regression, Random Forest, Neural Network, etc.]
+
+Model Persistence Method Used: 
+PyTorch (.pth format) + Pickle (scaler.pkl)
+
+Live URL of Hosted Application: 
+[Please provide the URL where your app is hosted]
+Example: https://huggingface.co/spaces/username/house-prediction
+Or: https://your-app.streamlit.app/
+
+GitHub Repository Link: 
+[Please provide your GitHub repository URL]
+Example: https://github.com/username/house-price-prediction
+
+======================================================
+Notes:
+- Ensure the Live URL is publicly accessible
+- The GitHub repository should contain all source code
+- Model is saved as model.pth
+- Scaler is saved as scaler.pkl
+======================================================
